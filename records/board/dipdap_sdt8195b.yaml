@@ -1,0 +1,7 @@
+common:
+    sources:
+        board:
+            - source/board/dipdap_sdt8195b.c
+        target:
+            - source/target/realtek/rtl8195/target.c
+            - source/target/realtek/target_reset.c
